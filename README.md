@@ -1,11 +1,11 @@
 # Hello, I'm Damien
 <a href="https://linkedin.com/in/damienlindsey"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a semi-recent graduate who has worked as a Morgan Stanley Operations Analyst for the past two years. There I primarily analyzed internal processes and drove automation. My bachelor's degree is in Business Administration with a concentration in Investments/Finance, I also have a Security+ certification and am currently working on a Google Cybersecuity Professional Certificate.
+I am a semi-recent graduate who has worked at Morgan Stanley for the past two years. As an Operations Analyst I primarily analyzed internal processes and drove automation. My bachelor's degree is in Business Administration with a concentration in Investments/Finance, I also have the Security+ certification and am currently in the process of completing the Google Cybersecuity Professional Certification.
 
 ## Objective
 
-My experience working closely with technology teams at Morgan Stanley combined with my experience in technical support and security networking has led me to develop a pasion for cybersecurity. I am eager to transition into the field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or as a Business Analyst working between business and Cybersecuririty team.
+My experience working closely with technology teams at Morgan Stanley combined with my experience in technical support and security networking has led me to develop a passion for cybersecurity. I am eager to transition into the field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or as a Business Analyst working between business and Cybersecuririty teams.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
