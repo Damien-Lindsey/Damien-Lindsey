@@ -1,7 +1,7 @@
 # Hello, I'm Damien
 <a href="https://linkedin.com/in/damienlindsey"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a semi-recent graduate who has worked at Morgan Stanley for the past two years. As an Operations Analyst I primarily analyzed internal processes and drove automation. My bachelor's degree is in Business Administration with a concentration in Investments/Finance, I also have the Security+ certification and am currently in the process of completing the Google Cybersecuity Professional Certification.
+I am a semi-recent graduate who has worked as a Morgan Stanley Operations Analyst for the last two years. In this role I was a member of a Client Onboarding Regulatory Services team where I primarily analyzed internal processes and collaborated in driving automation. My bachelor's degree is in Business Administration with a concentration in Investments, I also have the Security+ certification and am currently completing the Google Cybersecuity Professional Certificate program.
 
 ## Objective
 
