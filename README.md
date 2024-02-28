@@ -1,5 +1,6 @@
-# Hello, I'm Damien
+# Hi, I'm Damien
 <a href="https://linkedin.com/in/damienlindsey"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="Damien Resume.pdf.pdf"><img src="https://img.shields.io/badge/-Resume-00A4EF?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 
 I am a semi-recent graduate who has worked as a Morgan Stanley Operations Analyst for the last two years. In this role I was a member of a Client Onboarding Regulatory Services team where I primarily analyzed internal processes and collaborated in driving automation. My bachelor's degree is in Business Administration with a concentration in Investments, I also have the Security+ certification and am currently completing the Google Cybersecuity Professional Certificate program.
 
@@ -38,7 +39,7 @@ My experience working closely with technology teams at Morgan Stanley combined w
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-?&000000style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
