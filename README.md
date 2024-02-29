@@ -32,7 +32,7 @@ My experience working closely with technology teams at Morgan Stanley combined w
 
 ### Endpoint
 <div>
-   <a href="Microsoft Windows Defender and Firewall certificate.pdf"><img src="https://img.shields.io/badge/-Microsoft Windows Defender and Firewall-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+   <a href="Microsoft Windows Defender and Firewall project"><img src="https://img.shields.io/badge/-Microsoft Windows Defender and Firewall-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
