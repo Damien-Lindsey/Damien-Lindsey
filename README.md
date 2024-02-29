@@ -13,6 +13,7 @@ My experience working closely with technology teams at Morgan Stanley combined w
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+|Configured Microsoft Defender & Firewall       | <a href="https://github.com/Damien-Lindsey/Microsoft-Window-Defender-Firewall-Project/blob/main/README.md">Coursera Project</a>
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
