@@ -1,4 +1,5 @@
-# Hi, I'm Damien!<br/> Cybersecurity Professional
+# Hi, I'm Damien!<br/> 
+### Cybersecurity Professional
 
 <a href="https://linkedin.com/in/damienlindsey"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="Damien Resume.pdf"><img src="https://img.shields.io/badge/-Resume-00A4EF?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
