@@ -47,8 +47,10 @@ My experience working closely with technology teams at Morgan Stanley combined w
 ## Certifications
 <div>
 <a href="CompTIA Security+ certificate.pdf"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/-Google Cybersecurity Certificate%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <a href="Microsoft Windows Defender and Firewall certificate.pdf"><img src="https://img.shields.io/badge/-Microsoft Windows Defender and Firewall-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    
+<a href="Microsoft Windows Defender and Firewall certificate.pdf"><img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-blue?style=for-the-badge&logo=google&logoColor=white)"/>
+
+<a href="Microsoft Windows Defender and Firewall certificate.pdf"><img src="https://img.shields.io/badge/-Microsoft Windows Defender and Firewall-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white"/>
 
 </div>
 
