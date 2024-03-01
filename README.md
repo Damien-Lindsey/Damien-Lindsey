@@ -4,11 +4,7 @@
 <a href="https://linkedin.com/in/damienlindsey"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="Damien Resume.pdf"><img src="https://img.shields.io/badge/-Resume-00A4EF?&style=for-the-badge&" /></a>
 
-I am a semi-recent graduate who has worked as a Morgan Stanley Operations Analyst for the last two years. In this role I was a member of a Client Onboarding Regulatory Services team where I primarily analyzed internal processes and collaborated in driving automation. My bachelor's degree is in Business Administration with a concentration in Investments, I also have the Security+ certification and am currently completing the Google Cybersecuity Professional Certificate program.
-
-## Objective
-
-My experience working closely with technology teams at Morgan Stanley combined with my experience in technical support and security networking has led me to develop a passion for cybersecurity. I am eager to transition into the field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or as a Business Analyst working between business and Cybersecuririty teams.
+As a full-time Cybersecurity student I am passionate about expanding my knowledge and showing that I can be effective in a full-time Cybersecurity Analyst position. In my nearly two years as a Morgan Stanley Operations Analyst, I primarily analyzed internal processes and collaborated with tech teams in driving automation. This opportunity along with my two years experience in tech support and passion for Cybersecurity has propelled me to pursue further education to obtain the position of Tier 1 SOC (Security Operations Center) Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
