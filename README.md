@@ -5,7 +5,7 @@
 <a href="Damien Resume.pdf"><img src="https://img.shields.io/badge/Resume-grey?style=for-the-badge&logo=Resume" /></a>
 
 
-As a full-time Cybersecurity student I am passionate about expanding my knowledge and displaying my effectiveness. In my nearly two years as a Morgan Stanley Operations Analyst, I primarily analyzed internal processes and collaborated with tech teams in driving automation. This opportunity along with my two years of experience in tech support has built my passion for Cybersecurity and has propelled me to expand my education to obtain the position of Tier 1 SOC (Security Operations Center) Analyst.
+As a full-time Cybersecurity student I am passionate about expanding my knowledge and displaying my effectiveness. In my nearly two years as a Morgan Stanley Operations Analyst, I primarily analyzed internal processes and collaborated with tech teams in driving automation. This opportunity along with my two years of experience in tech support has built my passion for Cybersecurity and has propelled me to pursue further education to obtain a Tier 1 SOC (Security Operations Center) Analyst role.
 
 ## Certifications
 <a href="CompTIA Security+ certificate.pdf"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
