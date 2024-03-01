@@ -4,7 +4,7 @@
 <a href="https://linkedin.com/in/damienlindsey"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="Damien Resume.pdf"><img src="https://img.shields.io/badge/-Resume-00A4EF?&style=for-the-badge&" /></a>
 
-As a full-time Cybersecurity student I am passionate about expanding my knowledge and showing that I can be effective in a full-time Cybersecurity Analyst position. In my nearly two years as a Morgan Stanley Operations Analyst, I primarily analyzed internal processes and collaborated with tech teams in driving automation. This opportunity along with my two years experience in tech support and passion for Cybersecurity has propelled me to pursue further education to obtain the position of Tier 1 SOC (Security Operations Center) Analyst.
+As a full-time Cybersecurity student I am passionate about expanding my knowledge and showing that I can be an effective full-time Cybersecurity professional. In my nearly two years as a Morgan Stanley Operations Analyst, I primarily analyzed internal processes and collaborated with tech teams in driving automation. This opportunity along with my two years experience in tech support and passion for Cybersecurity has propelled me to pursue further education to obtain the position of Tier 1 SOC (Security Operations Center) Analyst.
 
 ## Certifications
 <div>
