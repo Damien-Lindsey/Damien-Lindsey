@@ -36,7 +36,7 @@ As a full-time Cybersecurity student I am passionate about expanding my knowledg
 
 ### Endpoint
 <div>
-   <a href="[Microsoft Windows Defender and Firewall project.docx](https://github.com/Damien-Lindsey/Microsoft-Window-Defender-Firewall-Project)"><img src="https://img.shields.io/badge/-Microsoft Windows Defender and Firewall-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+   <a href="https://github.com/Damien-Lindsey/Microsoft-Window-Defender-Firewall-Project"><img src="https://img.shields.io/badge/-Microsoft Windows Defender and Firewall-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
