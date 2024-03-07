@@ -14,15 +14,16 @@ As a full-time Cybersecurity student I am passionate about expanding my knowledg
 
 ## Projects
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-|Configuring Microsoft Defender & Firewall       | <a href="https://github.com/Damien-Lindsey/Microsoft-Window-Defender-Firewall-Project/blob/main/README.md">Coursera Project</a>
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Skill / Tool                                    | Associated Project         |
+|-------------------------------------------------|----------------------------|
+|Configuring Microsoft Defender & Firewall        | <a href="https://github.com/Damien-Lindsey/Microsoft-Window-Defender-Firewall-Project/blob/main/README.md">Coursera Project</a>
+|Decrypting an encrypted message in Linux         | Coursera Project
+| SIEM Implementation and Log Analysis            | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Security Automation with Shuffle SOAR           | SOC Automation Lab|
+| Incident Response Planning and Execution        | SOC Automation Lab|
+| Case Management with TheHive                    | SOC Automation Lab|
+| Scripting and Automation for Threat Detection   | SOC Automation Lab|
 
 
 ## Tools
