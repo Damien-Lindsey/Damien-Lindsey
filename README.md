@@ -16,8 +16,8 @@ As a full-time Cybersecurity student I am passionate about expanding my knowledg
 
 | Skill / Tool                                    | Associated Project         |
 |-------------------------------------------------|----------------------------|
-|Configuring Microsoft Defender & Firewall        | <a href="https://github.com/Damien-Lindsey/Microsoft-Window-Defender-Firewall-Project/blob/main/README.md">Coursera Project</a>
-|Decrypting an encrypted message in Linux         | <a href="https://github.com/Damien-Lindsey/Decrypting-an-Encrypted-Message-in-Linux">Coursera Project</a>
+| Configuring Microsoft Defender & Firewall       | <a href="https://github.com/Damien-Lindsey/Microsoft-Window-Defender-Firewall-Project/blob/main/README.md">Coursera Project</a>
+| Decrypting an encrypted message in Linux        | <a href="https://github.com/Damien-Lindsey/Decrypting-an-Encrypted-Message-in-Linux">Coursera Project</a>
 | SIEM Implementation and Log Analysis            | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR           | SOC Automation Lab|
@@ -27,6 +27,8 @@ As a full-time Cybersecurity student I am passionate about expanding my knowledg
 
 - <b>Microsoft Windows Defender & Firewall </b>
   - [Configuring Microsoft Defender & Firewall](https://github.com/Damien-Lindsey/Microsoft-Window-Defender-Firewall-Project/blob/main/README.md)
+- <b>Linux </b>
+  - [Decrypting encrypted messages](https://github.com/Damien-Lindsey/Decrypting-an-Encrypted-Message-in-Linux)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
