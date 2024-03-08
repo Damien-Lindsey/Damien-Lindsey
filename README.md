@@ -25,8 +25,8 @@ As a full-time Cybersecurity student I am passionate about expanding my knowledg
 | Case Management with TheHive                    | SOC Automation Lab|
 | Scripting and Automation for Threat Detection   | SOC Automation Lab|
 
-- <b>Configuring Microsoft Defender & Firewall (AlgoExpert)</b>
-  - [Project](https://github.com/Damien-Lindsey/Microsoft-Window-Defender-Firewall-Project/blob/main/README.md)
+- <b>Microsoft Windows Defender & Firewall </b>
+  - [Configuring Microsoft Defender & Firewall](https://github.com/Damien-Lindsey/Microsoft-Window-Defender-Firewall-Project/blob/main/README.md)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
