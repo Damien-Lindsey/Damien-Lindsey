@@ -23,9 +23,9 @@ Since resigning from my role as a Morgan Stanley Operations Analyst, I've moved 
 
 
 - <b>Microsoft Windows Defender & Firewall </b>
-  - [Configuring Microsoft Defender & Firewall](https://github.com/Damien-Lindsey/Microsoft-Window-Defender-Firewall-Project/blob/main/README.md)
+  - [Configuring Microsoft Defender & Firewall](https://github.com/Damien-Lindsey/Microsoft-Window-Defender-Firewall-Project/blob/main/README.md) (Coursera - April 2024)
 - <b>Linux </b>
-  - [Decrypting encrypted messages](https://github.com/Damien-Lindsey/Decrypting-an-Encrypted-Message-in-Linux)
+  - [Decrypting encrypted messages](https://github.com/Damien-Lindsey/Decrypting-an-Encrypted-Message-in-Linux) (Coursera - March 2024)
 
 
 ## Tools
