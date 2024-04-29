@@ -5,12 +5,8 @@
 <a href="Damien Resume.pdf"><img src="https://img.shields.io/badge/Resume-grey?style=for-the-badge&logo=Resume" /></a>
 
 
-Since leaving my role as a Morgan Stanley Operations Analyst, I've moved to Tampa, Florida and become a full-time Cybersecurity student. In my past role as well as my two years of experience in tech support I developed an interest in using technology to solve problems and making processes more efficient. This interest propelled me to acquire a Security+ and Google Cybersecurity Certifications as well as complete numerous projects. This interest has become a passion and this page is for you to view those projects. In my search for a full-time security/infosec analyst position I look forward to being an asset to team responsible for making the lives of people easier.
+Since resigning from my role as a Morgan Stanley Operations Analyst, I've moved to Tampa, Florida and become a full-time Cybersecurity student. In my past role as well as my two years of experience in tech support I developed an interest in using technology to solve problems and make processes more efficient. This interest propelled me to acquire the Security+ and Google Cybersecurity Certifications as well as complete numerous projects. This interest has become a passion and this github page is for you to view those projects. In my search for a full-time security/infosec analyst position I look forward to being an asset to team responsible for making the lives others easier.
 
-Working so closely with tech teams at Morgan Stanley, I developed an interest in collaborating to make processes more efficient. Also with two years experience in tech support I've developed solid technical ability and a drive to expand my knowledge. 
-
-that would make me an asset as a/an security/infosec analyst.
-processes developing  passionate about being an impactful player expanding my knowledge and displaying my effectiveness. In my nearly two years as a Morgan Stanley Operations Analyst, I primarily analyzed internal processes and collaborated with tech teams in driving automation. This opportunity along with my two years of experience in tech support has built my passion for Cybersecurity and has propelled me to pursue further education to obtain a full-time Tier 1 SOC (Security Operations Center) Analyst position.
 
 ## Certifications
 <a href="CompTIA Security+ certificate.pdf"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
