@@ -19,19 +19,15 @@ Since resigning from my role as a Morgan Stanley Operations Analyst, I've moved 
 |-------------------------------------------------|----------------------------|
 | Configuring Microsoft Defender & Firewall       | <a href="https://github.com/Damien-Lindsey/Microsoft-Window-Defender-Firewall-Project/blob/main/README.md">Coursera Project</a>
 | Decrypting an encrypted message in Linux        | <a href="https://github.com/Damien-Lindsey/Decrypting-an-Encrypted-Message-in-Linux">Coursera Project</a>
-| SIEM Implementation and Log Analysis            | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR           | SOC Automation Lab|
-| Incident Response Planning and Execution        | SOC Automation Lab|
-| Case Management with TheHive                    | SOC Automation Lab|
-| Scripting and Automation for Threat Detection   | SOC Automation Lab|
+| Tbd            | <a href="https://google.com">tbd</a>|
+
 
 - <b>Microsoft Windows Defender & Firewall </b>
   - [Configuring Microsoft Defender & Firewall](https://github.com/Damien-Lindsey/Microsoft-Window-Defender-Firewall-Project/blob/main/README.md)
 - <b>Linux </b>
   - [Decrypting encrypted messages](https://github.com/Damien-Lindsey/Decrypting-an-Encrypted-Message-in-Linux)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
