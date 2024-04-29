@@ -49,7 +49,3 @@ Since resigning from my role as a Morgan Stanley Operations Analyst, I've moved 
     <a href="https://github.com/Damien-Lindsey/Microsoft-Window-Defender-Firewall-Project"><img src="https://img.shields.io/badge/Splunk-orange?style=for-the-badge&logo=Splunk" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
