@@ -21,6 +21,6 @@ Since resigning from my role as a Morgan Stanley Operations Analyst, I've moved 
 - <b>Microsoft Windows Defender & Firewall </b>
   - [Configuring Microsoft Defender & Firewall](https://github.com/Damien-Lindsey/Microsoft-Window-Defender-Firewall-Project/blob/main/README.md) (Coursera - Feb 2024)
 - <b>Wireshark </b>
-  - [Wireshark vs Tcpdump Comparative Chart](https://github.com/Damien-Lindsey/Microsoft-Window-Defender-Firewall-Project/blob/main/README.md) (Coursera - Feb 2024)
+  - [Wireshark vs Tcpdump Comparative Chart](https://github.com/Damien-Lindsey/Damien-Lindsey/blob/main/Wireshark%20vs%20tcpdump%20comparative%20chart.pdf)) (Coursera - Mar 2024)
 
 
