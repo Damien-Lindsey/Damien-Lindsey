@@ -13,6 +13,8 @@ Since resigning from my role as a Morgan Stanley Operations Analyst, I've moved 
 
 
 ## Projects
+- <b>Incident Response </b>
+ - [Incident Handler's Journal](https://github.com/Damien-Lindsey/Incident handler's journal) (Coursera - Mar 2024)
 - <b>Linux </b>
   - [Decrypting encrypted messages](https://github.com/Damien-Lindsey/Decrypting-an-Encrypted-Message-in-Linux) (Coursera - Mar 2024)
 - <b>Microsoft Windows Defender & Firewall </b>
