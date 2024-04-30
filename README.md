@@ -17,13 +17,12 @@ Since resigning from my role as a Morgan Stanley Operations Analyst, I've moved 
   - [Incident Handler's Journal](https://github.com/Damien-Lindsey/Damien-Lindsey/blob/main/Incident%20handler's%20journal%20.pdf) (Coursera - Apr 2024)
   - [Parking Lot USB Exercise](https://github.com/Damien-Lindsey/Damien-Lindsey/blob/main/Parking%20lot%20USB%20exercise.pdf) (Coursera - Mar 2024)
 - <b>Linux </b>
-  - [Decrypting encrypted messages](https://github.com/Damien-Lindsey/Decrypting-an-Encrypted-Message-in-Linux) (Coursera - Mar 2024)
+  - [Decrypting Encrypted Messages](https://github.com/Damien-Lindsey/Decrypting-an-Encrypted-Message-in-Linux) (Coursera - Mar 2024)
 - <b>Microsoft Windows Defender & Firewall </b>
   - [Configuring Microsoft Defender & Firewall](https://github.com/Damien-Lindsey/Microsoft-Window-Defender-Firewall-Project/blob/main/README.md) (Coursera - Feb 2024)
+- <b>Security Frameworks & Controls </b>
+  - [Controls & Compliance Checklist]((https://github.com/Damien-Lindsey/Damien-Lindsey/blob/main/Controls%20and%20Compliance%20Checklist.pdf)) (Coursera - Feb 2024)
 - <b>SQL (Structured Query Language) </b>
-  - [Applying Filters Using SQL Filters](https://github.com/Damien-Lindsey/Damien-Lindsey/blob/main/Apply%20filters%20to%20SQL%20queries.pdf) (Coursera - Feb 2024)
+  - [Applying Filters to SQL Filters](https://github.com/Damien-Lindsey/Damien-Lindsey/blob/main/Apply%20filters%20to%20SQL%20queries.pdf) (Coursera - Feb 2024)
 - <b>Wireshark </b>
   - [Wireshark vs Tcpdump Comparative Chart](https://github.com/Damien-Lindsey/Damien-Lindsey/blob/main/Wireshark%20vs%20tcpdump%20comparative%20chart.pdf)) (Coursera - Mar 2024)
-
-
-https://github.com/Damien-Lindsey/Damien-Lindsey/blob/main/Apply%20filters%20to%20SQL%20queries.pdf
