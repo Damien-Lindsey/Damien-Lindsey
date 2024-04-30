@@ -31,4 +31,4 @@ Since resigning from my role as a Morgan Stanley Operations Analyst, I've moved 
   - [Applying Filters to SQL Filters](https://github.com/Damien-Lindsey/Damien-Lindsey/blob/main/Apply%20filters%20to%20SQL%20queries.pdf) (Coursera - Feb 2024)
     
 - <b>Wireshark </b>
-  - [Wireshark vs Tcpdump Comparative Chart](https://github.com/Damien-Lindsey/Damien-Lindsey/blob/main/Wireshark%20vs%20tcpdump%20comparative%20chart.pdf)) (Coursera - Mar 2024)
+  - [Wireshark vs Tcpdump Comparative Chart](https://github.com/Damien-Lindsey/Damien-Lindsey/blob/main/Wireshark%20vs%20tcpdump%20comparative%20chart.pdf) (Coursera - Mar 2024)
