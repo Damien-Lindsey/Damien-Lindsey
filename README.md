@@ -21,7 +21,7 @@ Since resigning from my role as a Morgan Stanley Operations Analyst, I've moved 
 - <b>Microsoft Windows Defender & Firewall </b>
   - [Configuring Microsoft Defender & Firewall](https://github.com/Damien-Lindsey/Microsoft-Window-Defender-Firewall-Project/blob/main/README.md) (Coursera - Feb 2024)
 - <b>Security Frameworks & Controls </b>
-  - [Controls & Compliance Checklist]((https://github.com/Damien-Lindsey/Damien-Lindsey/blob/main/Controls%20and%20Compliance%20Checklist.pdf)) (Coursera - Feb 2024)
+  - [Controls & Compliance Checklist](https://github.com/Damien-Lindsey/Damien-Lindsey/blob/main/Controls%20and%20Compliance%20Checklist.pdf) (Coursera - Feb 2024)
 - <b>SQL (Structured Query Language) </b>
   - [Applying Filters to SQL Filters](https://github.com/Damien-Lindsey/Damien-Lindsey/blob/main/Apply%20filters%20to%20SQL%20queries.pdf) (Coursera - Feb 2024)
 - <b>Wireshark </b>
