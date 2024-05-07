@@ -1,6 +1,7 @@
 # Hi, I'm Damien!<br/> 
 <a href="https://linkedin.com/in/damienlindsey"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="Damien Resume.pdf"><img src="https://img.shields.io/badge/Resume-grey?style=for-the-badge&logo=Resume" /></a>
+<a href="Cover Letter.pdf"><img src="https://img.shields.io/badge/Cover Letter-grey?style=for-the-badge&logo=Cover Letter" /></a>
 
 ### Cybersecurity Professional Summary
 Since resigning from my role as a Morgan Stanley Operations Analyst, I've moved to Tampa, Florida and become a full-time Cybersecurity student. In my last role as well as in my two years in tech support, I developed an interest in using technology to solve problems and make processes more efficient. This interest propelled me to acquire the Security+ and Google Cybersecurity Certifications as well as complete numerous technical projects. This interest has become a passion, and this page is for you to view those projects. In my search for a full-time security/infosec analyst position I look forward to being an asset to a team responsible for making the lives of others easier.
