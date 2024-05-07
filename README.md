@@ -1,7 +1,6 @@
 # Hi, I'm Damien!<br/> 
 <a href="https://linkedin.com/in/damienlindsey"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="Damien Resume.pdf"><img src="https://img.shields.io/badge/Resume-grey?style=for-the-badge&logo=Resume" /></a>
-<a href="Cover Letter.pdf"><img src="https://img.shields.io/badge/Cover Letter-grey?style=for-the-badge&logo=Cover Letter" /></a>
 <a href="Cover Letter.pdf"><img src="https://img.shields.io/badge/-Cover Letter-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white " /></a>
 
 ### Cybersecurity Professional Summary
