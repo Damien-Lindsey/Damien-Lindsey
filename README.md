@@ -4,7 +4,7 @@
 <a href="Cover Letter.pdf"><img src="https://img.shields.io/badge/-Cover Letter-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white " /></a>
 
 ### Professional Summary
-As a Morgan Stanley Operations Analyst for the last three years, I have become the go-to member of my team for leading automation of our daily processes. That means scheduling meetings to discuss process steps, looking for areas of improved productivity, meeting with tech teams to plan technological improvements, and organizing the UAT testing of updated processes. During this time, I have obtained the CompTIA Sec+ and Google Cybersecurity Professional certifications while developing my cybersecurity skills. Presented below are some of the projects and certifications completed that demonstrate some of those skills.
+As a Morgan Stanley Operations Analyst of three years, I have become the go-to member of my team for leading automation of our daily processes. That means scheduling discovery meetings to discuss process steps, seeking areas of process optimization, meeting with tech teams to plan technological improvements, and organizing UAT testing of updated processes to confirm the improvements made were successful. During this time, I have obtained the CompTIA Sec+ and Google Cybersecurity Professional certifications while developing my cybersecurity skills. Below are the projects and certifications I've completed that demonstrate those skills.
 
 
 ## Certifications
