@@ -3,8 +3,8 @@
 <a href="Damien Resume.pdf"><img src="https://img.shields.io/badge/Resume-grey?style=for-the-badge&logo=Resume" /></a>
 <a href="Cover Letter.pdf"><img src="https://img.shields.io/badge/-Cover Letter-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white " /></a>
 
-### Cybersecurity Professional Summary
-Since resigning from my role as a Morgan Stanley Operations Analyst, I've moved to Tampa, Florida and become a full-time Cybersecurity student. In my last role as well as in my two years in tech support, I developed an interest in using technology to solve problems and make processes more efficient. This interest propelled me to acquire the Security+ and Google Cybersecurity Certifications as well as complete numerous technical projects. This interest has become a passion, and this page is for you to view those projects. In my search for a full-time security/infosec analyst position I look forward to being an asset to a team responsible for making the lives of others easier.
+### Professional Summary
+As a Morgan Stanley Operations Analyst for the last three years, I have become the go-to member of my team for leading automation of our daily processes. That means scheduling meetings to discuss process steps, looking for areas of improved productivity, meeting with tech teams to plan technological improvements, and organizing the UAT testing of updated processes. During this time, I have obtained the CompTIA Sec+ and Google Cybersecurity Professional certifications while developing my cybersecurity skills. Presented below are some of the projects and certifications completed that demonstrate some of those skills.
 
 
 ## Certifications
