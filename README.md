@@ -5,6 +5,7 @@
 
 ### Professional Summary
 As a Morgan Stanley Operations Analyst, I have become the go-to member of my team for leading the automation of our daily regulatory processes. This means scheduling discovery meetings to create flow charts of process steps, noting areas for optimization, meeting with tech teams to plan technological improvements, and organizing UAT testing to confirm process improvements were made successfully. 
+
 During this time, I have also obtained the CompTIA Sec+ and Google Cybersecurity Professional certifications while developing my cybersecurity skills. Below are the completed projects and certifications that demonstrate those skills.
 
 
